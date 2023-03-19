@@ -1,0 +1,161 @@
+body{
+    background-color: aquamarine;
+    opacity: 1.0;
+    
+    
+}
+.first{
+    height: 200px;
+    /* background-color: aqua; */
+    width: 100%;
+}
+.logo{
+    height: 200px;
+    width: 50%;
+    margin-top: 20px;
+    /* background-color: blue; */
+}
+.name{
+    height: 200px;
+    float: right;
+    width: 50%;
+    margin-top: -200px;
+    /* background-color: red; */
+}
+
+.name p 
+{
+    float: right;
+}
+
+.name a 
+{
+    float: right;
+}
+.name h5{
+    margin-left: 87%;
+}
+
+.name h4
+{
+    margin-left: 43%;
+}
+.name h3
+{
+    margin-left: 75%;
+    color: blue;
+}
+.career{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+ text-align: justify;
+ border-radius: 13px;  
+ background: linear-gradient(red,green,orange);
+}
+.career h4
+{
+font-size: 3.5ch;
+font-style: italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#one
+{
+    margin-left: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.education{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+  text-align: justify; 
+ border-radius: 13px;   
+ background: linear-gradient(red,green,orange);
+}
+.education h4
+{
+font-size: 3.5ch;
+font-style: italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.skills{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+  text-align: justify;  
+ border-radius: 13px;   
+ background: linear-gradient(red,green,orange);
+}
+.skills h4
+{
+font-size: 3.5ch;
+font-style: italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.activity{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+  text-align: justify; 
+ border-radius: 13px;   
+ background: linear-gradient(red,green,orange);
+}
+.activity h4
+{
+font-size: 3.5ch;
+font-style: italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hobbies{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+  text-align: justify;  
+ border-radius: 13px;   
+ background: linear-gradient(red,green,orange);
+}
+.hobbies h4
+{
+font-size: 3.5ch;
+font-style: italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Languages{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+  text-align: justify; 
+ border-radius: 13px;   
+ background: linear-gradient(red,green,orange);
+}
+.Languages h4
+{
+font-size: 3.5ch;
+font-style: italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Personal{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+  text-align: justify;   
+ border-radius: 13px;   
+ background: linear-gradient(red,green,orange);
+}
+.Personal h4
+{
+font-size: 3.5ch;
+font-style: italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+/* color: rgb(10, 195, 234); */
+
+}
